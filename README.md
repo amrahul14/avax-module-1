@@ -24,16 +24,3 @@ The `contribute` function allows contributors to make contributions to the crowd
 - If the funding goal is already reached, a `require` statement aborts the function with the message "Funding goal already reached."
 - An `assert` statement is used to ensure the correct update of the `totalFunds` variable after a successful contribution.
 
-## Usage
-
-1. Deploy the smart contract to a compatible Ethereum network.
-2. Contribute Ether by calling the `contribute` function with the desired amount (minimum 10 Ether).
-
-## Disclaimer
-
-This is a basic example for educational purposes. Ensure thorough testing before deploying to a live network.
-
-## License
-
-This smart contract is licensed under the MIT License.
-
